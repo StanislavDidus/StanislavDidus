@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StanislavDidus
-- 👀 I’m not pedro
+
 
 
 <!---
